@@ -1,3 +1,6 @@
+					////////////////	JAVA Nots      /////////////// 
+
+
 Java Variables
 	•	
 	•	String - stores text, such as "Hello". String values are surrounded by double quotes
